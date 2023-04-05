@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="1030.092"
+   height="273.90201"
+   viewBox="0 0 1030.092 273.90201"
+   enable-background="new 0 0 2000 400"
+   xml:space="preserve"
+   sodipodi:docname="ncar-logo-navy.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"><metadata
+   id="metadata136"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>NCAR-contemp-logo-blue.a</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs134"><rect
+     x="862.35187"
+     y="-144.02917"
+     width="41.932545"
+     height="40.10939"
+     id="rect144" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1371"
+   inkscape:window-height="716"
+   id="namedview132"
+   showgrid="false"
+   inkscape:zoom="0.47584683"
+   inkscape:cx="393.12579"
+   inkscape:cy="224.76994"
+   inkscape:window-x="69"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
+<title
+   id="title107">NCAR-contemp-logo-blue.a</title>
+<rect
+   x="1019.916"
+   y="0"
+   fill="#012169"
+   width="10.176"
+   height="273.90201"
+   id="rect109" />
+<path
+   fill="#012169"
+   d="m 374.89,48.830001 c -53.655,0.195 -86.728,24.574 -86.52,86.777999 0.239,64.595 40.704,104.439 105.288,104.211 25.199,-0.131 49.839,-7.444 71.023,-21.091 l 0.125,34.177 c -21.827,12.386 -51.222,16.919 -74.78,17.015 -75.537,0.266 -137.553,-43.252 -137.868,-134.172 -0.297,-82.018999 52.543,-117.081999 117.485,-117.296999 32.818,-0.122 64.972,6.594 94.725,14.359 l 0.133,36.562 c -17.817,-12.578 -59.884,-20.627 -89.62,-20.529"
+   id="path111" />
+<path
+   fill="#012169"
+   d="m 688.799,260.983 c -0.831,-4.104 -0.429,-8.202 -10.759,-30.387 -7.448,-16.715 -15.296,-31.616 -22.734,-48.345 l -104.978,0.372 c -7.317,17.119 -14.636,32.076 -22.384,48.848 -4.229,9.702 -7.489,19.794 -9.737,30.13 l -44.946,0.166 c 0,0 5.311,-4.797 17.106,-32.186 8.944,-20.882 68.753,-155.067999 77.698,-175.942999 10.168,-22.938 10.565,-28.065 10.565,-28.065 l 48.895,-0.173 c 0,0 0.431,6.143 9.937,27.644 9.1,20.823 68.216,153.553999 77.723,174.715999 13.636,29.679 19.128,33.081 19.128,33.081 z M 601.565,60.676001 C 588.143,91.822001 575.224,122.051 561.381,153.22 l 84.072,-0.306 C 630.995,121.873 616.024,91.733001 601.55,60.685001"
+   id="path113" />
+<path
+   fill="#012169"
+   d="m 900.815,260.23 c -5.77,-5.788 -11.936,-11.584 -18.1,-17.372 l -98.735,-86.794 0.273,76.214 c 0.039,10.925 0.905,24.26 2.972,28.359 l -40.242,0.155 c 2.44,-5.824 2.412,-15.4 2.361,-28.38 L 748.702,52.972001 c -0.043,-9.377 -0.762,-18.739 -2.153,-28.011 30.763,-0.124 57.452,-4.306 87.38,-4.427 45.923,-0.162 80.437,16.12 80.579,57.817 0.154,42.372999 -31.744,67.779999 -85.861,74.464999 30.855,26.203 61.706,53.098 92.547,79.633 10.9,10.104 22.59,19.312 34.961,27.552 z M 823.369,45.868001 c -13.129,0.041 -25.827,1.799 -39.763,3.214 l 0.27,75.991999 c 8.63,0.65 16.417,1.29 25.034,1.29 36.08,-0.132 66.793,-7.193 66.668,-42.402999 -0.097,-29.05 -20.231,-38.196 -52.209,-38.085"
+   id="path115" />
+<path
+   fill="#012169"
+   d="m 175.495,261.775 c 0,0 -5.807,-9.897 -19.121,-28.686 C 116.431,178.459 76.823,123.155 37.225,68.175001 V 232.402 c 0,24.587 1.696,29.372 1.696,29.372 H 0 c 1.81,-9.79 2.494,-19.753 2.046,-29.699 V 60.327001 c 0.289,-11.406 -0.278,-22.816 -1.698,-34.139 h 50.53 c 0,0 2.046,5.812 19.465,30.05 C 84.672,76.037001 174.48,200.655 188.806,220.468 V 58.953001 c 0.406,-10.953 -0.162,-21.919 -1.698,-32.774 h 38.918 c -1.743,10.833 -2.431,21.807 -2.054,32.774 V 227.299 c 0,31.065 1.361,31.065 2.054,34.489 z"
+   id="path117" />
+
+<text
+   xml:space="preserve"
+   id="text142"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect144);fill:#000000;fill-opacity:1;stroke:none;"
+   transform="translate(0,-57.286999)" /></svg>
