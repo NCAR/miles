@@ -760,7 +760,7 @@
           ]
         },
         "tags": [
-          "internships"
+          "collaboration"
         ],
         "grid": 0
       },
@@ -776,7 +776,7 @@
       "properties": {
         "order": 104,
         "id": 15,
-        "name": "internships",
+        "name": "collaboration",
         "prevSize": 32,
         "code": 59663
       },
