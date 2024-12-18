@@ -2,32 +2,38 @@ enable  : true
 title   : ALUMNI
 members  :
 
-  - name        : Keely Lawrence
+  - name        : Keely Wilde
     designation : Intern
-    ncaruname   : ncaruname
     githubuname : keelylawrence
 
   - name        : Gunther Wallach
     designation : Intern
-    ncaruname   : ncaruname
     githubuname : guwa4340
 
   - name        : Eliot Kim
-    designation : SiParcs Intern
-    ncaruname   : ncaruname
+    designation : SIParCS Intern
     githubuname : ejkim124
 
   - name        : Justin Willson
-    designation : SiParcs Intern
-    ncaruname   : ncaruname
+    designation : SIParCS Intern
     githubuname : jwill-19
 
   - name        : Prahalath Anbu Bharathi
-    designation : SiParcs Intern
-    ncaruname   : ncaruname
-    githubuname : ai2es
+    designation : SIParCS Intern
+    githubuname : pbanbu1
 
   - name        : Omar Chaarawi
-    designation : SiParcs Intern
-    ncaruname   : ncaruname
+    designation : SIParCS Intern
     githubuname : omarchaarawi
+
+  - name        : Belen Saavedra
+    designation : SIParCS Intern
+    githubuname : bsaavedrabo
+
+  - name        : Hayden Outlaw
+    designation : SIParCS Intern
+    githubuname : outlawhayden
+
+  - name        : Sophia Reiner
+    designation : SIParCS Intern
+    githubuname : sophiaanr

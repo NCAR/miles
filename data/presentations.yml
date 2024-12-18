@@ -3,16 +3,6 @@ title  : PRESENTATIONS
 image  : images/banners/aurora.jpg
 items  :
            
-  - title: Uncertainty Quantification Decomposition through the Lens of Explainable AI
-    authors:
-      - Becker, C.
-      - J. Schreck.
-      - D. J. Gagne.
-      - M. Molina
-      - G. Gantos
-      - Y. Sha
-    conference: AMS Annual Meeting 2023
-    year: 2023
 
   - title: Machine Learning Data Challenges across the Pipeline
     authors:
@@ -67,6 +57,17 @@ items  :
       - D. J. Gagne.
     conference: 23rd Conference on Artificial Intelligence for Environmental Science
     year: 2024
+
+  - title: Uncertainty Quantification Decomposition through the Lens of Explainable AI
+    authors:
+      - Becker, C.
+      - J. Schreck.
+      - D. J. Gagne.
+      - M. Molina
+      - G. Gantos
+      - Y. Sha
+    conference: AMS Annual Meeting 2023
+    year: 2023
 
   - title: Machine Learning Uncertainty Quantification for Predicting Hazards and Impacts from Convection-Allowing LAMs
     authors:
