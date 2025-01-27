@@ -8,5 +8,5 @@ The mission of the Machine Integration and Learning for Earth Systems (MILES) gr
 * Researching and developing cutting-edge machine learning approaches for challenges that strategically expand NCAR’s and the broader ESS community’s ability to observe and model the Earth System.
 * Building and sustaining key partnerships with scientists and stakeholders throughout NCAR’s labs, the university community, government agencies, and private companies.
 * Developing robust machine learning infrastructure and community benchmark evaluations and datasets that can interface with critical ESS modeling and observation systems.
-* Educating and empowering a diverse group of ESS students, researchers, and stakeholders on how best to integrate machine learning into their domains through tutorials, workshops, internships, collaborations, and co-development. 
+* Educating and empowering ESS students, researchers, and stakeholders on how best to integrate machine learning into their domains through tutorials, workshops, internships, collaborations, and co-development. 
 
