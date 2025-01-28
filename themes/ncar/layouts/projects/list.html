@@ -25,7 +25,7 @@
             <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
           </div>
           <div class="site-project-item-content">
-            <span>{{ delimit .Params.category ", " }}</span>
+            <span>{{ with .Params.category }}{{ delimit . ", "}}{{ end }}</span>
             <h3>{{ .Title }}</h3>
           </div>
         </div>
