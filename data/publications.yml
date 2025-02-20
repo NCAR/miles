@@ -2,7 +2,52 @@ enable : true
 title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
-  - title: Physically Explainable Deep Learning for Convective Initiation Nowcasting Using GOES-16 Satellite Observations
+  - title: "(Re)Conceptualizing trustworthy AI: A foundation for change"
+    authors:
+      - Chris Wirz
+      - Julie Demuth
+      - Ann Bostrom
+      - Mariana Cains
+      - Imme Ebert-Uphoff
+      - David John Gagne
+      - Andrea Schumacher
+      - Amy McGovern
+      - D. Madlambayan
+    journal: Artificial Intelligence
+    year: 2025
+    pages: In Press
+    url: https://www.sciencedirect.com/journal/artificial-intelligence/vol/341/suppl/C
+  
+  - title: "Improving AI weather prediction models using global mass and energy conservation schemes"
+    authors: 
+      - Yingkai Kyle Sha
+      - John S. Schreck
+      - Will Chapman
+      - David John Gagne II
+    journal: Journal of Advances in Modeling Earth Systems
+    year: 2025
+    volume: -1
+    pages: Under Review
+    url: http://arxiv.org/abs/2501.05648
+  - title: Community Research Earth Digital Intelligence Twin (CREDIT)
+    authors: 
+      - John Schreck
+      - Yingkai Kyle Sha
+      - William Chapman
+      - Dhamma Kimpara
+      - Judith Berner
+      - Seth McGinnis
+      - Arnold Kazadi
+      - Negin Sobhani
+      - Ben Kirk
+      - David John Gagne II
+    journal: npj Climate and Atmospheric Science
+    year: 2025
+    volume: -1
+    pages: Under Review
+    url: http://arxiv.org/abs/2411.07814
+
+  - title: "Physically Explainable Deep Learning for Convective Initiation Nowcasting Using GOES-16 Satellite Observations"
     authors:
       - Da Fan
       - Steven J. Greybush
@@ -10,9 +55,10 @@ items  :
       - David John Gagne II
     journal: Artificial Intelligence for the Earth Systems
     year: 2024
-    volume: -1
-    pages: In Press
+    volume: 3
+    pages: e230098
     url:  https://doi.org/10.1175/AIES-D-23-0098.1
+
   - title: "Evidential Deep Learning: Enhancing Predictive Uncertainty Estimation for Earth System Science Applications"
     authors:
       - John Schreck
@@ -33,8 +79,64 @@ items  :
       - Christopher Wirz
     journal: Artificial Intelligence for the Earth Systems
     year: 2024
-    pages: Under Review
-    url: https://arxiv.org/abs/2309.13207
+    volume: 3
+    pages: 230093
+    url: https://doi.org/10.1175/AIES-D-23-0093.1
+  
+  - title: "Increasing the reproducibility and replicability of supervised AI/ML in the earth systems science by leveraging social science methods"
+    authors:
+      - Chris Wirz
+      - Carly Sutter
+      - Julie Demuth
+      - Kirsten Mayer
+      - William Chapman
+      - Mariana Cains
+      - Jacob Radford
+      - Vanessa Przybylo
+      - A. Evans
+      - Thomas Martin
+      - Lauriana Gaudet
+      - Kara Sulia
+      - Ann Bostrom
+      - David John Gagne
+      - Nick Bassill
+      - Andrea Schumacher
+      - Chris Thorncroft
+    journal: Earth and Space Science
+    year: 2024
+    volume: 11
+    pages: e2023EA003364
+    url: https://doi.org/10.1029/2023EA003364
+  
+  - title: Exploring NWS Forecasters' Assessment of AI Guidance Trustworthiness
+    authors: 
+      - M. G. Cains
+      - C. D. Wirz 
+      - J. L. Demuth
+      - A. Bostrom 
+      - D. J. Gagne 
+      - A. McGovern
+      - R. A. Sobash
+      - D. Madlambayan
+    journal: Weather and Forecasting
+    year: 2024
+    volume: 39
+    pages: 1219--1241
+    url: https://doi.org/10.1175/WAF-D-23-0180.1
+  
+  - title: Spatiotemporal Evolution of Marine Heatwaves Globally
+    authors:
+      - Scannell, Hillary 
+      - Cai, Cassia 
+      - Thompson, Luanne 
+      - Whitt, Daniel Bridger 
+      - Gagne, David John 
+      - Abernathey, Ryan
+    journal: J. Atmos. Oceanic Technology
+    volume: 41
+    pages: 1247--1263
+    url: https://doi.org/10.1175/JTECH-D-23-0126.1
+
   - title: A Machine Learning-Based Approach to Quantify ENSO Sources of Predictability
     authors:
       - Colfescu, Ioana
@@ -135,7 +237,7 @@ items  :
       - M. Robinson
       - W. Shaw
       - R. Thedin
-    journal: Wind Energ. Sci. Discuss
+    journal: Wind Energ. Sci.
     year: 2023
     volume: 8
     pages: 1251–1275
