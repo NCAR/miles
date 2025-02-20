@@ -3,7 +3,7 @@
 
 name = "NCAR"
 license = "MIT"
-licenselink = "https://github.com/NCAR/vast/blob/main/LICENSE"
+licenselink = "https://github.com/NCAR/miles/blob/main/LICENSE"
 description = ""
 homepage = ""
 tags = []
