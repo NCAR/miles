@@ -2,6 +2,34 @@ enable : true
 title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
+  
+  - title: "CAMulator: Fast Emulation of the Community Atmosphere Model"
+    authors: 
+      - William E. Chapman
+      - John S. Schreck
+      - Yingkai Sha
+      - David John Gagne II
+      - Dhamma Kimpara
+      - Laure Zanna
+      - Kirsten J. Mayer
+      - Judith Berner
+    journal: arXiv
+    year: 2025
+    pages: Under Review
+    url: https://www.arxiv.org/abs/2504.06007
+
+
+  - title: "Investigating the contribution of terrain-following coordinates and conservation schemes in AI-driven precipitation forecasts"
+    authors:
+      - Yingkai Sha
+      - John Schreck
+      - William Chapman
+      - David John Gagne II
+    journal: ArXiv
+    year: 2025
+    pages: Under Review
+    url: https://arxiv.org/abs/2503.00332
+
   - title: "(Re)Conceptualizing trustworthy AI: A foundation for change"
     authors:
       - Chris Wirz
@@ -15,8 +43,8 @@ items  :
       - D. Madlambayan
     journal: Artificial Intelligence
     year: 2025
-    pages: In Press
-    url: https://www.sciencedirect.com/journal/artificial-intelligence/vol/341/suppl/C
+    pages: 104309
+    url: https://doi.org/10.1016/j.artint.2025.104309
   
   - title: "Improving AI weather prediction models using global mass and energy conservation schemes"
     authors: 
@@ -29,6 +57,7 @@ items  :
     volume: -1
     pages: Under Review
     url: http://arxiv.org/abs/2501.05648
+
   - title: Community Research Earth Digital Intelligence Twin (CREDIT)
     authors: 
       - John Schreck
