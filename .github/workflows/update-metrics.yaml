@@ -8,12 +8,16 @@ on:
       - 'data/publications.yml'
       - 'data/realtimeproducts.yml'
       - 'data/collaboration.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update_metrics:
-    runs-on: 'ubuntu-20.04'
+    runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         ref: 'main'
   
