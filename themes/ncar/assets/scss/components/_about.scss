@@ -2,6 +2,8 @@
   &-header {
     color: $white;
     padding: 180px 0 30px;
+    background-size: cover;
+    background-position: center;
     @include mobile {
       padding: 100px 0 20px;
     }

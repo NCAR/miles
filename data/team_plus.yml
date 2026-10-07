@@ -6,17 +6,8 @@ members  :
   - name        : Kirsten Mayer
     designation : Scientist IV (CGD)
     ncaruname   : kjmayer
+    impactsid   : kirsten-mayer
     githubuname : kjmayer
-
-  - name        : Kyle Sha
-    designation : Scientist III (RAL)
-    ncaruname   : ksha
-    githubuname : yingkaisha
-
-  - name        : Dhamma Kimpara
-    designation : Scientist III (MMM)
-    ncaruname   : dkimpara
-    githubuname : dkimpara
 
   - name        : Da Fan
     designation : Post Doc - LEAP
@@ -25,11 +16,13 @@ members  :
   - name        : Julie Demuth
     designation : Senior Scientist (MMM)
     ncaruname   : jdemuth
+    impactsid   : julie-demuth
     githubuname : ncar
 
   - name        : Jeffrey Anderson
     designation : Senior Scientist Section Head (DAReS)
     ncaruname   : jla
+    impactsid   : jeffrey-anderson
     githubuname : jlaucar
 
   - name        : William Chapman

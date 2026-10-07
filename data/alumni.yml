@@ -10,6 +10,14 @@ members  :
     designation : Intern
     githubuname : guwa4340
 
+  - name        : Maria Molina
+    designation : ASP Postdoc
+    githubuname : mariajmolina
+
+  - name        : Zhonghua Zheng
+    designation : ASP Postdoc
+    githubuname : zhonghua-zheng
+
   - name        : Eliot Kim
     designation : SIParCS Intern
     githubuname : ejkim124
@@ -19,7 +27,7 @@ members  :
     githubuname : jwill-19
 
   - name        : Prahalath Anbu Bharathi
-    designation : SIParCS Intern
+    designation : NESSI Intern
     githubuname : pbanbu1
 
   - name        : Omar Chaarawi
@@ -40,4 +48,20 @@ members  :
 
   - name        : Arnold Kazadi
     designation : SIParCS Intern
-  
+    githubuname : kanz76
+
+  - name        : Kyle Sha
+    designation : Scientist III (RAL)
+    githubuname : yingkaisha
+
+  - name        : Dhamma Kimpara
+    designation : Scientist III (MMM)
+    githubuname : dkimpara
+
+  - name        : Ethan Campbell
+    designation : SIParCS Intern
+    githubuname : ecampb34
+
+  - name        : LJ Dunphy
+    designation : SIParCS Intern
+    githubuname : lj-dunphy
