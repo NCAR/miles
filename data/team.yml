@@ -5,21 +5,25 @@ members  :
   - name        : David John Gagne II
     designation : Machine Learning Scientist V (Lead)
     ncaruname   : dgagne
+    impactsid   : david-john-gagne
     githubuname : djgagne
 
   - name        : John Schreck
     designation : Machine Learning Scientist V
     ncaruname   : schreck
+    impactsid   : john-schreck
     githubuname : jsschreck
 
   - name        : Charlie Becker
     designation : Machine Learning Scientist III
     ncaruname   : cbecker
+    impactsid   : charlie-becker
     githubuname : charlie-becker
 
   - name        : Gabrielle Gantos
     designation : Machine Learning Scientist II
     ncaruname   : ggantos
+    impactsid   : gabrielle-gantos
     githubuname : ggantos
   
   - name        : Kevin Yang

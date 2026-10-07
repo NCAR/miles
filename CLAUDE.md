@@ -24,6 +24,7 @@ CI uses Hugo extended (0.144.2 in `.github/workflows/hugo.yml`). `public/` and `
 - **`config.yml`**: site params, the header nav menu, and footer sitemap links. A new top-level section has to be added to the nav and footer here by hand.
 - **`data/*.yml`**: most page content is generated from these files by templates in `themes/ncar/layouts`. Each file has top-level `enable`/`title` keys, plus a list under `items` (publications, presentations, collaboration, realtimeproducts) or `members` (team, team_plus, alumni). Mapping:
   - `team.yml` (MILES Core), `team_plus.yml` (MILES+), `alumni.yml` → partials rendered on the About page
+    - Each member's NCAR icon links to `https://impacts.ucar.edu/en/persons/<impactsid>/` when `impactsid` is set, otherwise to `staff.ucar.edu/users/<ncaruname>`, and is omitted when neither is set. The photo uses the same link and falls back to the member's GitHub profile.
   - `publications.yml` → `/publications`; new entries are added at the **top** of `items` (newest first). `authors` may be an inline list or a block list.
   - `presentations.yml` → `/presentations`
   - `collaboration.yml` (SIParCS intern projects) → `/collaboration`

@@ -11,17 +11,27 @@
           </div>
         </div>
         {{ range .members }}
+        {{ $ncarurl := "" }}
+        {{ if .impactsid }}
+          {{ $ncarurl = printf "https://impacts.ucar.edu/en/persons/%s/" .impactsid }}
+        {{ else if .ncaruname }}
+          {{ $ncarurl = printf "https://staff.ucar.edu/users/%s" .ncaruname }}
+        {{ end }}
+        {{ $profileurl := $ncarurl }}
+        {{ if and (not $profileurl) .githubuname }}
+          {{ $profileurl = printf "https://github.com/%s" .githubuname }}
+        {{ end }}
         <div class="col-lg-4 col-md-6">
           <div class="site-team-member">
             <div class="site-team-member-image">
-              <a href="https://staff.ucar.edu/users/{{ .ncaruname }}"><img src="https://avatars.githubusercontent.com/{{ .githubuname }}" alt="team-member"></a>
+              {{ with $profileurl }}<a href="{{ . }}">{{ end }}<img src="https://avatars.githubusercontent.com/{{ .githubuname }}" alt="team-member">{{ if $profileurl }}</a>{{ end }}
             </div>
             <div class="site-team-member-content">
               <h3>{{ .name }}</h3>
               <p>{{ .designation }}</p>
               <ul class="site-team-member-social">
-                <li><a href="https://staff.ucar.edu/users/{{ .ncaruname }}"><span class="icon-symbol-ncar"></span></a></li>
-                <li><a href="https://github.com/{{ .githubuname }}"><i class="fa fa-github"></i></a></li>
+                {{ with $ncarurl }}<li><a href="{{ . }}"><span class="icon-symbol-ncar"></span></a></li>{{ end }}
+                {{ with .githubuname }}<li><a href="https://github.com/{{ . }}"><i class="fa fa-github"></i></a></li>{{ end }}
               </ul>
             </div>
           </div>
