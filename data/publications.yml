@@ -8,7 +8,7 @@ items  :
     journal: Weather and Forecasting
     year: 2026
     volume: 41
-    pages: 2051--2068
+    pages: 2051–2068
     url: https://doi.org/10.1175/WAF-D-25-0237.1
 
   - title: AI-Based Regional Emulation for Kilometer-Scale Dynamical Downscaling
@@ -69,7 +69,7 @@ items  :
     journal: IEEE Access
     year: 2026
     volume: 14
-    pages: 38306--38331
+    pages: 38306–38331
     url: https://doi.org/10.1109/ACCESS.2026.3670767
 
   - title: Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts
@@ -302,7 +302,7 @@ items  :
     journal: Weather and Forecasting
     year: 2024
     volume: 39
-    pages: 1219--1241
+    pages: 1219–1241
     url: https://doi.org/10.1175/WAF-D-23-0180.1
   
   - title: Spatiotemporal Evolution of Marine Heatwaves Globally
@@ -316,7 +316,7 @@ items  :
     journal: J. Atmos. Oceanic Technology
     year: 2024
     volume: 41
-    pages: 1247--1263
+    pages: 1247–1263
     url: https://doi.org/10.1175/JTECH-D-23-0126.1
 
   - title: A Machine Learning-Based Approach to Quantify ENSO Sources of Predictability
@@ -335,7 +335,7 @@ items  :
     journal: Nature Climate Change
     volume: 14
     year: 2024
-    pages: 916--928
+    pages: 916–928
     url: https://doi.org/10.1038/s41558-024-02095-y
 
   - title: "Ethics in climate AI: From theory to practice"
@@ -351,7 +351,7 @@ items  :
     journal: Risk Analysis
     year: 2024
     volume: 44
-    pages: 1498--1513
+    pages: 1498–1513
     url: https://doi.org/10.1111/risa.14245
 
   - title: Generative Ensemble Deep Learning Severe Weather Prediction from a Deterministic Convection-Allowing Model
@@ -367,7 +367,7 @@ items  :
     journal: Bulletin of the American Meteorological Society
     year: 2024
     volume: 105
-    pages: E567--E583
+    pages: E567–E583
     url: https://doi.org/10.1175/BAMS-D-23-0196.1
 
   - title: A review of machine learning for convective weather
@@ -497,7 +497,7 @@ items  :
     journal: Atmospheric Measurement Technologies
     year: 2022
     volume: 2022
-    pages: 1--38
+    pages: 1–38
     url: https://doi.org/10.5194/amt-15-5793-2022
 
   - title: Neural network emulation of the formation of organic aerosols based on the explicit gecko-a chemistry model
@@ -527,7 +527,7 @@ items  :
     journal: Boundary Layer Meteorology
     volume: 185
     year: 2022
-    pages: 199--228
+    pages: 199–228
     url: https://doi.org/10.1007/s10546-022-00727-4
 
   - title: On the application of an observations-based machine learning parameterization of surface layer fluxes within an atmospheric large-eddy simulation model
@@ -574,7 +574,7 @@ items  :
     journal: Bulletin of the American Meteorological Society
     year: 2022
     volume: 103
-    pages: E1658--E1668
+    pages: E1658–E1668
     url: https://doi.org/10.1175/BAMS-D-21-0020.1
 
   - title: A hybrid analog-ensemble, convolutional-neural-network method for post-processing precipitation forecasts
@@ -586,7 +586,7 @@ items  :
     journal: Monthly Weather Review
     year: 2022
     volume: 150
-    pages: 1495--1515
+    pages: 1495–1515
     url: https://doi.org/10.1175/MWR-D-21-0154.1
 
   - title: The History and Practice of AI in the Environmental Sciences
@@ -604,7 +604,7 @@ items  :
     journal: Bulletin of the American Meteorological Society
     year: 2022
     volume: 103
-    pages: E1351--E1370
+    pages: E1351–E1370
     url: https://doi.org/10.1175/BAMS-D-20-0234.1
 
   - title: Probabilistic Machine Learning Estimation of Ocean Mixed Layer Depth from Dense Satellite and Sparse In-Situ Observations
@@ -638,7 +638,7 @@ items  :
     journal: Journal of Atmospheric and Oceanic Technology
     year: 2021
     volume: 38
-    pages: 1075–-1091
+    pages: 1075–1091
     url: https://doi.org/10.1175/JTECH-D-20-0081.1
 
   - title: Machine Learning the Warm Rain Process
@@ -672,7 +672,7 @@ items  :
     journal: Journal of Applied Meteorology and Climatology
     year: 2020
     volume: 59
-    pages: 2057–-2073
+    pages: 2057–2073
     url: https://doi.org/10.1175/JAMC-D-20-0057.1
 
   - title: "Deep-learning-based gridded downscaling of surface meteorological variables in complex terrain - part ii: daily precipitation"
@@ -684,7 +684,7 @@ items  :
     journal: Journal of Applied Meteorology and Climatology
     year: 2020
     volume: 59
-    pages: 2075–-2092
+    pages: 2075–2092
     url: https://doi.org/10.1175/JAMC-D-20-0058.1
 
   - title: "Machine learning for stochastic parameterization: Generative adversarial networks in the lorenz ’96 model"
@@ -696,7 +696,7 @@ items  :
     journal: Journal of Advances in Modeling Earth Systems
     year: 2020
     volume: 12
-    pages: 2075–-2092
+    pages: 2075–2092
     url: https://doi.org/10.1029/2019MS001896
 
   - title: Deep learning on three-dimensional multiscale data for next-hour tornado prediction
@@ -709,7 +709,7 @@ items  :
     journal: Mon. Wea. Rev.
     year: 2020
     volume: 148
-    pages: 2837–-2861
+    pages: 2837–2861
     url: https://doi.org/10.1175/MWR-D-19-0372.1
 
   - title: Calibration of machine learning-based probabilistic hail predictions for operational forecasting
@@ -722,7 +722,7 @@ items  :
     journal: Wea. Forecasting
     year: 2020
     volume: 35
-    pages: 149–-168
+    pages: 149–168
     url: https://doi.org/10.1175/WAF-D-19-0105.1
 
   - title: "Making the black box more transparent: Understanding the physical implications of machine learning"
@@ -737,7 +737,7 @@ items  :
     journal: Bull. Amer. Meteor. Soc.
     year: 2019
     volume: 100
-    pages: 2175–-2199
+    pages: 2175–2199
     url: https://doi.org/ 10.1175/BAMS-D-18-0195.1
 
   - title: Deep learning for spatially explicit prediction of synoptic-scale fronts
@@ -748,7 +748,7 @@ items  :
     journal: Wea. Forecasting
     year: 2019
     volume: 34
-    pages: 1137–-1160
+    pages: 1137–1160
     url: https://doi.org/10.1175/ WAF-D-18-0183.1
 
   - title: Interpretable Deep Learning for Spatial Analysis of Severe Hailstorms
@@ -756,7 +756,7 @@ items  :
     journal: Monthly Weather Review
     year: 2019
     volume: 147
-    pages: 2827--2845
+    pages: 2827–2845
     url: https://doi.org/10.1175/MWR-D-18-0316.1
 
   - title: Storm-Based Probabilistic Hail Forecasting with Machine Learning Applied to Convection-Allowing Ensembles
@@ -764,7 +764,7 @@ items  :
     journal: Weather and Forecasting
     year: 2017
     volume: 32
-    pages: 1819--1840
+    pages: 1819–1840
     url: https://doi.org/10.1175/WAF-D-17-0010.1
 
   - title: Using Artificial Intelligence to Improve Real-Time Decision-Making for High-Impact Weather
@@ -772,7 +772,7 @@ items  :
     journal: Bulletin of the American Meteorological Society
     year: 2017
     volume: 98
-    pages: 2073--2090
+    pages: 2073–2090
     url: https://doi.org/10.1175/BAMS-D-16-0123.1
 
   - title: Evaluation of statistical learning configurations for gridded solar irradiance forecasting
@@ -780,7 +780,7 @@ items  :
     journal: Solar Energy
     year: 2017
     volume: 150
-    pages: 383--393
+    pages: 383–393
     url: https://doi.org/10.1016/j.solener.2017.04.031
 
   - title: Explicit Forecasts of Low-Level Rotation from Convection-Allowing Models for Next-Day Tornado Prediction
@@ -788,7 +788,7 @@ items  :
     journal: Weather and Forecasting
     year: 2016
     volume: 31
-    pages: 1591--1614
+    pages: 1591–1614
     url: https://doi.org/10.1175/WAF-D-16-0073.1
 
   - title: "Solar Energy Prediction: An International Contest to Initiate Interdisciplinary Research on Compelling Meteorological Problems"
@@ -796,7 +796,7 @@ items  :
     journal: Bulletin of the American Meteorological Society
     year: 2015
     volume: 96
-    pages: 1388--1395
+    pages: 1388–1395
     url: https://doi.org/10.1175/BAMS-D-14-00006.1
 
   - title: Machine Learning Enhancement of Storm-Scale Ensemble Probabilistic Quantitative Precipitation Forecasts
@@ -804,7 +804,7 @@ items  :
     journal: Weather and Forecasting
     year: 2014
     volume: 29
-    pages: 1024--1043
+    pages: 1024–1043
     url: https://doi.org/10.1175/WAF-D-13-00108.1
 
   - title: Enhancing understanding and improving prediction of severe weather through spatiotemporal relational learning
@@ -812,7 +812,7 @@ items  :
     journal: Machine Learning
     year: 2014
     volume: 95
-    pages: 27--50
+    pages: 27–50
     url: https://doi.org/10.1007/s10994-013-5343-x
 
   - title: "Tornadic Supercell Environments Analyzed Using Surface and Reanalysis Data: A Spatiotemporal Relational Data-Mining Approach"
@@ -820,7 +820,7 @@ items  :
     journal: Journal of Applied Meteorology and Climatology
     year: 2012
     volume: 51
-    pages: 2203--2217
+    pages: 2203–2217
     url: https://doi.org/10.1175/JAMC-D-11-060.1
 
   - title: Using spatiotemporal relational random forests to improve our understanding of severe weather processes
@@ -828,7 +828,7 @@ items  :
     journal: Statistical Analysis and Data Mining
     year: 2011
     volume: 4
-    pages: 407--429
+    pages: 407–429
     url: https://doi.org/10.1002/sam.10128
 
   - title: Classification of Convective Areas Using Decision Trees
@@ -836,5 +836,5 @@ items  :
     journal: Journal of Atmospheric and Oceanic Technology
     year: 2009
     volume: 26
-    pages: 1341--1353
+    pages: 1341–1353
     url: https://doi.org/10.1175/2008JTECHA1205.1
