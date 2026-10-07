@@ -3,6 +3,62 @@ title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
   
+  - title: Winter Precipitation-Type Diagnosis and Uncertainty Quantification with a Physically Consistent Machine Learning Method
+    authors: [Charlie Becker, David John Gagne II, Julie Demuth, John S Schreck, Jacob Radford, Gabrielle Gantos, Eliot Kim, Dhamma Kimpara, Sophia Reiner, Justin Willson, Christopher D Wirz]
+    journal: Weather and Forecasting
+    year: 2026
+    volume: 41
+    pages: 2051--2068
+    url: https://doi.org/10.1175/WAF-D-25-0237.1
+
+  - title: AI-Based Regional Emulation for Kilometer-Scale Dynamical Downscaling
+    authors: [Yingkai Sha, Tracy Hertneky, Ethan D Gutmann, Seth McGinnis, Rachel McCrary, Lulin Xue, David John Gagne II, Kathryn Newman, Andrew Newman]
+    journal: "Journal of Geophysical Research: Machine Learning and Computation"
+    year: 2026
+    volume: 3
+    pages: e2026JH001313
+    url: https://doi.org/10.1029/2026JH001313
+
+  - title: Efficient Emulation, Uncertainty Quantification, and Sensitivity Analysis for a Land Surface Model Using Evidential Deep Learning
+    authors: [Kachinga Silwimba, Alejandro N Flores, Linnia R Hawkins, Charlie Becker, Katherine Dagon, David John Gagne II, Jodi Mead, Daniel Kennedy, Irene Cionni, Stanley Akor, Pamela L Sullivan, Sharon A Billings, Hoori Ajami, Daniel R Hirmas, Li Li, Jesse B Nippert]
+    journal: Journal of Advances in Modeling Earth Systems
+    year: 2026
+    volume: 18
+    pages: e2025MS005587
+    url: https://doi.org/10.1029/2025MS005587
+
+  - title: Bayesian Deep Learning for Convective Initiation Nowcasting Uncertainty Estimation
+    authors: [Da Fan, David John Gagne II, Steven J Greybush, Eugene E Clothiaux, John S Schreck, Chaopeng Shen]
+    journal: Artificial Intelligence for the Earth Systems
+    year: 2026
+    volume: 5
+    pages: e250064
+    url: https://doi.org/10.1175/AIES-D-25-0064.1
+
+  - title: Data-Driven Probabilistic Air-Sea Flux Parameterization
+    authors: [Jiarong Wu, Pavel Perezhogin, David John Gagne II, Brandon G Reichl, Aneesh C Subramanian, Elizabeth J Thompson, Laure Zanna]
+    journal: Geophysical Research Letters
+    year: 2026
+    volume: 53
+    pages: e2025GL120472
+    url: https://doi.org/10.1029/2025GL120472
+
+  - title: A Regional Benchmark for Deep Learning-Based Hourly Precipitation Nowcasting in Latin America
+    authors: [Adriano P Almeida, Henrique M J Barbosa, Sâmia R Garcia, David John Gagne II, Kanghui Zhou, Takuji Kubota, Tomoo Ushio, Shigenori Otsuka, Simon Pfreundschuh, Alan J P Calheiros]
+    journal: IEEE Access
+    year: 2026
+    volume: 14
+    pages: 38306--38331
+    url: https://doi.org/10.1109/ACCESS.2026.3670767
+
+  - title: Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts
+    authors: [Zhanxiang Hua, Ryan Sobash, David John Gagne II, Yingkai Sha, Alexandra Anderson-Frey]
+    journal: Artificial Intelligence for the Earth Systems
+    year: 2026
+    volume: 5
+    pages: 250045
+    url: https://doi.org/10.1175/AIES-D-25-0045.1
+
   - title: Controllable Probabilistic Forecasting with Stochastic Decomposition Layers
     authors: [John S Schreck, William E Chapman, Charlie Becker, David John Gagne II, Dhamma Kimpara, Nihanth Cherukuru, Judith Berner, Kirsten J Mayer, Negin Sobhani]
     journal: arXiv
@@ -10,12 +66,29 @@ items  :
     pages: Preprint
     url: https://arxiv.org/abs/2512.18815
 
-  - title: Winter Precipitation Type Diagnosis and Uncertainty Quantification with a Physically Consistent Machine Learning Method
-    authors: [Charlie Becker, David John Gagne II, Julie Demuth, John S Schreck, Jacob Radford, Gabrielle Gantos, Eliot Kim, Dhamma Kimpara, Sophia Reiner, Justin Willson, Christopher D Wirz]
-    journal: arXiv
+  - title: Leveraging automated machine learning (AutoML) for urban climate emulation
+    authors: [Junjie Yu, Zhonghua Zheng, Sarah Lindley, Lei Zhao, Chi Wang, Qingyun Wu, Lingcheng Li, David O Topping, John S Schreck, David John Gagne II, Keith W Oleson]
+    journal: Big Data and Earth System
     year: 2025
-    pages: Preprint
-    url: https://arxiv.org/abs/2512.13899
+    volume: 1
+    pages: 100040
+    url: https://doi.org/10.1016/j.bdes.2025.100040
+
+  - title: "Uncertainty quantification of wind gust predictions in the northeast United States: An evidential neural network and explainable artificial intelligence approach"
+    authors: [Israt Jahan, John S Schreck, David John Gagne II, Charlie Becker, Marina Astitha]
+    journal: Environmental Modelling & Software
+    year: 2025
+    volume: 193
+    pages: 106595
+    url: https://doi.org/10.1016/j.envsoft.2025.106595
+
+  - title: Downscaling from Mesoscale to Microscale in Complex Terrain Using a Compound Generative Adversarial Network
+    authors: [Susan Dettling, Sue Ellen Haupt, Thomas Brummet, Branko Kosović, David John Gagne II, Pedro A Jimenez]
+    journal: Artificial Intelligence for the Earth Systems
+    year: 2025
+    volume: 4
+    pages: e240004
+    url: https://doi.org/10.1175/AIES-D-24-0004.1
 
   - title: "Measuring Sharpness of AI-Generated Meteorological Imagery"
     authors: 
@@ -34,18 +107,11 @@ items  :
       - Jacob T Radford
       - Jebb Q Stewart
       - Sam Scheuerman
-    journal: AI for the Earth Systems
-    year: 2025
-    pages: In Press
-    url: https://doi.org/10.1175/AIES-D-24-0083.1
-
-  - title: Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts
-    authors: [Zhanxiang Hua, Ryan Sobash, David John Gagne II, Yingkai Sha, Alexandra Anderson-Frey]
     journal: Artificial Intelligence for the Earth Systems
     year: 2025
-    volume: 5
-    pages: 250045
-    url: https://doi.org/10.1175/AIES-D-25-0045.1
+    volume: 4
+    pages: e240083
+    url: https://doi.org/10.1175/AIES-D-24-0083.1
 
   - title: "Reinforcement Learning (RL) Meets Urban Climate Modeling: Investigating the Efficacy and Impacts of RL-Based HVAC Control"
     authors: [Junjie Yu, John S Schreck, David John Gagne, Keith W Oleson, Jie Li, Yongtu Liang, Qi Liao, Mingfei Sun, David O Topping, Zhonghua Zheng]
@@ -227,6 +293,7 @@ items  :
       - Gagne, David John 
       - Abernathey, Ryan
     journal: J. Atmos. Oceanic Technology
+    year: 2024
     volume: 41
     pages: 1247--1263
     url: https://doi.org/10.1175/JTECH-D-23-0126.1
@@ -249,6 +316,38 @@ items  :
     year: 2024
     pages: 916--928
     url: https://doi.org/10.1038/s41558-024-02095-y
+
+  - title: "Ethics in climate AI: From theory to practice"
+    authors: [Viviana Acquaviva, Elizabeth A Barnes, David John Gagne II, Galen A McKinley, Savannah Thais]
+    journal: PLOS Climate
+    year: 2024
+    volume: 3
+    pages: e0000465
+    url: https://doi.org/10.1371/journal.pclm.0000465
+
+  - title: "Trust and trustworthy artificial intelligence: A research agenda for AI in the environmental sciences"
+    authors: [Ann Bostrom, Julie L Demuth, Christopher D Wirz, Mariana G Cains, Andrea Schumacher, Deianna Madlambayan, Akansha Singh Bansal, Angela Bearth, Randy Chase, Katherine M Crosman, Imme Ebert-Uphoff, David John Gagne II, Seth Guikema, Robert Hoffman, Branden B Johnson, Christina Kumler-Bonfanti, John D Lee, Anna Lowe, Amy McGovern, Vanessa Przybylo, Jacob T Radford, Emilie Roth, Carly Sutter, Philippe Tissot, Paul Roebber, Jebb Q Stewart, Miranda White, John K Williams]
+    journal: Risk Analysis
+    year: 2024
+    volume: 44
+    pages: 1498--1513
+    url: https://doi.org/10.1111/risa.14245
+
+  - title: Generative Ensemble Deep Learning Severe Weather Prediction from a Deterministic Convection-Allowing Model
+    authors: [Yingkai Sha, Ryan A Sobash, David John Gagne II]
+    journal: Artificial Intelligence for the Earth Systems
+    year: 2024
+    volume: 3
+    pages: e230094
+    url: https://doi.org/10.1175/AIES-D-23-0094.1
+
+  - title: Identifying and Categorizing Bias in AI/ML for Earth Sciences
+    authors: [Amy McGovern, Ann Bostrom, Marie McGraw, Randy J Chase, David John Gagne II, Imme Ebert-Uphoff, Kate D Musgrave, Andrea Schumacher]
+    journal: Bulletin of the American Meteorological Society
+    year: 2024
+    volume: 105
+    pages: E567--E583
+    url: https://doi.org/10.1175/BAMS-D-23-0196.1
 
   - title: A review of machine learning for convective weather
     authors:
@@ -300,6 +399,14 @@ items  :
     volume: 31
     pages: 20049-20067
     url: https://doi.org/10.1364/OE.486741
+
+  - title: Machine Learning and VIIRS Satellite Retrievals for Skillful Fuel Moisture Content Monitoring in Wildfire Management
+    authors: [John S Schreck, William Petzke, Pedro A Jiménez, Thomas Brummet, Jason C Knievel, Eric James, Branko Kosović, David John Gagne II]
+    journal: Remote Sensing
+    year: 2023
+    volume: 15
+    pages: 3372
+    url: https://doi.org/10.3390/rs15133372
 
   - title: Diagnosing storm mode with deep learning in convection-allowing models
     authors:
@@ -490,7 +597,7 @@ items  :
     pages: e2021MS002474
     url: https://doi.org/10.1029/2021MS002474
 
-  - title: Deep learning classification of potentially severe convective storms in a changing climate
+  - title: A benchmark to test generalization capabilities of deep learning methods to classify severe convective storms in a changing climate
     authors:
       - Molina, M.
       - D. J. Gagne
@@ -501,13 +608,13 @@ items  :
     pages: e2020EA001 490
     url: https://doi.org/10.1029/2020EA001490
 
-  - title: Deep-learning-based precipitation observation quality control. Journal of Atmospheric and Oceanic Technology
+  - title: Deep-learning-based precipitation observation quality control
     authors:
       - Sha, Y.
       - D. J. Gagne
       - G. West
       - R. Stull
-    journal: Earth and Space Science
+    journal: Journal of Atmospheric and Oceanic Technology
     year: 2021
     volume: 38
     pages: 1075–-1091
@@ -615,3 +722,11 @@ items  :
     volume: 34
     pages: 1137–-1160
     url: https://doi.org/10.1175/ WAF-D-18-0183.1
+
+  - title: Interpretable Deep Learning for Spatial Analysis of Severe Hailstorms
+    authors: [David John Gagne II, Sue Ellen Haupt, Douglas W Nychka, Gregory Thompson]
+    journal: Monthly Weather Review
+    year: 2019
+    volume: 147
+    pages: 2827--2845
+    url: https://doi.org/10.1175/MWR-D-18-0316.1
