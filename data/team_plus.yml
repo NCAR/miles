@@ -4,27 +4,17 @@ members  :
 
 
   - name        : Kirsten Mayer
-    designation : Project Scientist I (CGD)
+    designation : Scientist IV (CGD)
     ncaruname   : kjmayer
     githubuname : kjmayer
 
   - name        : Kyle Sha
-    designation : Postdoc Fellow II
+    designation : Scientist III (RAL)
     ncaruname   : ksha
     githubuname : yingkaisha
 
-  - name        : Thomas Martin
-    designation : AI/ML Software Engineer (Unidata)
-    ncaruname   : tmartin
-    githubuname : ThomasMGeo
-
-  - name        : Arnold Kazadi
-    designation : SIParCS Intern
-    ncaruname   : akn7
-    githubuname : kanz76
-
   - name        : Dhamma Kimpara
-    designation : SIParCS Intern
+    designation : Scientist III (MMM)
     ncaruname   : dkimpara
     githubuname : dkimpara
 
@@ -32,30 +22,16 @@ members  :
     designation : Post Doc - LEAP
     githubuname : dxf424
 
-  - name        : Wayne Chuang
-    designation : Integration Engineer - LEAP (Columbia)
-    githubuname : wkchuang
-
   - name        : Julie Demuth
-    designation : Project Scientist III (MMM)
+    designation : Senior Scientist (MMM)
     ncaruname   : jdemuth
-    githubuname : ai2es
+    githubuname : ncar
 
   - name        : Jeffrey Anderson
     designation : Senior Scientist Section Head (DAReS)
     ncaruname   : jla
     githubuname : jlaucar
 
-  - name        : Jacob Radford
-    designation : Research Associate (CIRA)
-    githubuname : jacob-t-radford
-
-  - name        : Chris Wirz
-    designation : Risk Communication Postdoctoral Researcher (MMM)
-    ncaruname   : cdwirz
-    githubuname : ai2es
-
   - name        : William Chapman
-    designation : Project Scientist I (CGD)
-    ncaruname   : wchapman
+    designation : Assistant Professor, University of Colorado
     githubuname : WillyChap

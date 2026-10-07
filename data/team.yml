@@ -3,22 +3,32 @@ title   : MILES Core
 members  :
 
   - name        : David John Gagne II
-    designation : Machine Learning Scientist II (Lead)
+    designation : Machine Learning Scientist V (Lead)
     ncaruname   : dgagne
     githubuname : djgagne
 
   - name        : John Schreck
-    designation : Machine Learning Scientist II
+    designation : Machine Learning Scientist V
     ncaruname   : schreck
     githubuname : jsschreck
 
   - name        : Charlie Becker
-    designation : Associate Data Scientist II
+    designation : Machine Learning Scientist III
     ncaruname   : cbecker
     githubuname : charlie-becker
 
   - name        : Gabrielle Gantos
-    designation : Associate Data Scientist II
+    designation : Machine Learning Scientist II
     ncaruname   : ggantos
     githubuname : ggantos
+  
+  - name        : Kevin Yang
+    designation : Postdoctoral Fellow I
+    ncaruname   : kevinyang
+    githubuname : kevinyang-cky
+
+  - name        : Iris Linck
+    designation : Postdoctoral Fellow I
+    ncaruname   : ilinck
+    githubuname : ilinck
 

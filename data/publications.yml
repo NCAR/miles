@@ -3,6 +3,20 @@ title  : PUBLICATIONS
 image  : images/banners/aurora.jpg
 items  :
   
+  - title: Controllable Probabilistic Forecasting with Stochastic Decomposition Layers
+    authors: [John S Schreck, William E Chapman, Charlie Becker, David John Gagne II, Dhamma Kimpara, Nihanth Cherukuru, Judith Berner, Kirsten J Mayer, Negin Sobhani]
+    journal: arXiv
+    year: 2025
+    pages: Preprint
+    url: https://arxiv.org/abs/2512.18815
+
+  - title: Winter Precipitation Type Diagnosis and Uncertainty Quantification with a Physically Consistent Machine Learning Method
+    authors: [Charlie Becker, David John Gagne II, Julie Demuth, John S Schreck, Jacob Radford, Gabrielle Gantos, Eliot Kim, Dhamma Kimpara, Sophia Reiner, Justin Willson, Christopher D Wirz]
+    journal: arXiv
+    year: 2025
+    pages: Preprint
+    url: https://arxiv.org/abs/2512.13899
+
   - title: "Measuring Sharpness of AI-Generated Meteorological Imagery"
     authors: 
       - Imme Ebert-Uphoff
@@ -27,10 +41,11 @@ items  :
 
   - title: Improving Medium Range Severe Weather Prediction through Transformer Post-processing of AI Weather Forecasts
     authors: [Zhanxiang Hua, Ryan Sobash, David John Gagne II, Yingkai Sha, Alexandra Anderson-Frey]
-    journal: arXiv
+    journal: Artificial Intelligence for the Earth Systems
     year: 2025
-    pages: Under Review
-    url: https://arxiv.org/abs/2505.11750?
+    volume: 5
+    pages: 250045
+    url: https://doi.org/10.1175/AIES-D-25-0045.1
 
   - title: "Reinforcement Learning (RL) Meets Urban Climate Modeling: Investigating the Efficacy and Impacts of RL-Based HVAC Control"
     authors: [Junjie Yu, John S Schreck, David John Gagne, Keith W Oleson, Jie Li, Yongtu Liang, Qi Liao, Mingfei Sun, David O Topping, Zhonghua Zheng]
@@ -71,10 +86,11 @@ items  :
       - John Schreck
       - William Chapman
       - David John Gagne II
-    journal: ArXiv
+    journal: Geophysical Research Letters
     year: 2025
-    pages: Under Review
-    url: https://arxiv.org/abs/2503.00332
+    volume: 52
+    pages: e2025GL118478
+    url: https://doi.org/10.1029/2025GL118478
 
   - title: "(Re)Conceptualizing trustworthy AI: A foundation for change"
     authors:
@@ -101,9 +117,9 @@ items  :
       - David John Gagne II
     journal: Journal of Advances in Modeling Earth Systems
     year: 2025
-    volume: -1
-    pages: Under Review
-    url: http://arxiv.org/abs/2501.05648
+    volume: 17
+    pages: e2025MS005138
+    url: https://doi.org/10.1029/2025MS005138
 
   - title: "Community Research Earth Digital Intelligence Twin: a scalable framework for AI-driven Earth System Modeling"
     authors: 
