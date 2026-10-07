@@ -27,6 +27,27 @@ items  :
     pages: e2025MS005587
     url: https://doi.org/10.1029/2025MS005587
 
+  - title: Developing an Offshore Machine Learning Surface Layer Scheme
+    authors: [Susan Dettling, Sue Ellen Haupt, Thomas Brummet, Patrick Hawbecker, Branko Kosović, David John Gagne II]
+    journal: arXiv
+    year: 2026
+    pages: Preprint
+    url: https://arxiv.org/abs/2608.14935
+
+  - title: Conditional Tropical Cyclogenesis Rates via Rare-Event Sampling in a Neural Weather Emulator
+    authors: [John S Schreck, William E Chapman, Charlie Becker, David John Gagne II]
+    journal: arXiv
+    year: 2026
+    pages: Preprint
+    url: https://arxiv.org/abs/2606.30920
+
+  - title: "Toward a Scientific Discovery Engine for Weather and Climate Data: A Visual Analytics Workbench for Embedding-Based Exploration"
+    authors: [Nihanth W Cherukuru, Matt Rehme, Kirsten J Mayer, David John Gagne II, John S Schreck, John Clyne, Charlie Becker]
+    journal: arXiv
+    year: 2026
+    pages: Preprint
+    url: https://arxiv.org/abs/2605.00972
+
   - title: Bayesian Deep Learning for Convective Initiation Nowcasting Uncertainty Estimation
     authors: [Da Fan, David John Gagne II, Steven J Greybush, Eugene E Clothiaux, John S Schreck, Chaopeng Shen]
     journal: Artificial Intelligence for the Earth Systems
@@ -635,6 +656,13 @@ items  :
     pages: e2020MS002 268
     url: https://doi.org/10.1029/2020MS002268
 
+  - title: Short-Term Solar Irradiance Forecasting Using Calibrated Probabilistic Models
+    authors: [Eric Zelikman, Sharon Zhou, Jeremy Irvin, Cooper Raterink, Hao Sheng, Anand Avati, Jack Kelly, Ram Rajagopal, Andrew Y Ng, David John Gagne II]
+    journal: arXiv
+    year: 2020
+    pages: Preprint
+    url: https://arxiv.org/abs/2010.04715
+
   - title: "Deep-learning-based gridded downscaling of surface meteorological variables in complex terrain. part i: daily maximum and minimum 2-m temperature"
     authors:
       - Sha, Y.
@@ -730,3 +758,83 @@ items  :
     volume: 147
     pages: 2827--2845
     url: https://doi.org/10.1175/MWR-D-18-0316.1
+
+  - title: Storm-Based Probabilistic Hail Forecasting with Machine Learning Applied to Convection-Allowing Ensembles
+    authors: [David John Gagne II, Amy McGovern, Sue Ellen Haupt, Ryan A Sobash, John K Williams, Ming Xue]
+    journal: Weather and Forecasting
+    year: 2017
+    volume: 32
+    pages: 1819--1840
+    url: https://doi.org/10.1175/WAF-D-17-0010.1
+
+  - title: Using Artificial Intelligence to Improve Real-Time Decision-Making for High-Impact Weather
+    authors: [Amy McGovern, Kimberly L Elmore, David John Gagne II, Sue Ellen Haupt, Christopher D Karstens, Ryan Lagerquist, Travis Smith, John K Williams]
+    journal: Bulletin of the American Meteorological Society
+    year: 2017
+    volume: 98
+    pages: 2073--2090
+    url: https://doi.org/10.1175/BAMS-D-16-0123.1
+
+  - title: Evaluation of statistical learning configurations for gridded solar irradiance forecasting
+    authors: [David John Gagne II, Amy McGovern, Sue Ellen Haupt, John K Williams]
+    journal: Solar Energy
+    year: 2017
+    volume: 150
+    pages: 383--393
+    url: https://doi.org/10.1016/j.solener.2017.04.031
+
+  - title: Explicit Forecasts of Low-Level Rotation from Convection-Allowing Models for Next-Day Tornado Prediction
+    authors: [Ryan A Sobash, Glen S Romine, Craig S Schwartz, David John Gagne II, Morris L Weisman]
+    journal: Weather and Forecasting
+    year: 2016
+    volume: 31
+    pages: 1591--1614
+    url: https://doi.org/10.1175/WAF-D-16-0073.1
+
+  - title: "Solar Energy Prediction: An International Contest to Initiate Interdisciplinary Research on Compelling Meteorological Problems"
+    authors: [Amy McGovern, David John Gagne II, Jeffrey Basara, Thomas M Hamill, David Margolin]
+    journal: Bulletin of the American Meteorological Society
+    year: 2015
+    volume: 96
+    pages: 1388--1395
+    url: https://doi.org/10.1175/BAMS-D-14-00006.1
+
+  - title: Machine Learning Enhancement of Storm-Scale Ensemble Probabilistic Quantitative Precipitation Forecasts
+    authors: [David John Gagne II, Amy McGovern, Ming Xue]
+    journal: Weather and Forecasting
+    year: 2014
+    volume: 29
+    pages: 1024--1043
+    url: https://doi.org/10.1175/WAF-D-13-00108.1
+
+  - title: Enhancing understanding and improving prediction of severe weather through spatiotemporal relational learning
+    authors: [Amy McGovern, David John Gagne II, John K Williams, Rodger A Brown, Jeffrey B Basara]
+    journal: Machine Learning
+    year: 2014
+    volume: 95
+    pages: 27--50
+    url: https://doi.org/10.1007/s10994-013-5343-x
+
+  - title: "Tornadic Supercell Environments Analyzed Using Surface and Reanalysis Data: A Spatiotemporal Relational Data-Mining Approach"
+    authors: [David John Gagne II, Amy McGovern, Jeffrey B Basara, Rodger A Brown]
+    journal: Journal of Applied Meteorology and Climatology
+    year: 2012
+    volume: 51
+    pages: 2203--2217
+    url: https://doi.org/10.1175/JAMC-D-11-060.1
+
+  - title: Using spatiotemporal relational random forests to improve our understanding of severe weather processes
+    authors: [Amy McGovern, David John Gagne II, Nathaniel Troutman, Rodger A Brown, Jeffrey Basara, John K Williams]
+    journal: Statistical Analysis and Data Mining
+    year: 2011
+    volume: 4
+    pages: 407--429
+    url: https://doi.org/10.1002/sam.10128
+
+  - title: Classification of Convective Areas Using Decision Trees
+    authors: [David John Gagne II, Amy McGovern, Jerry Brotzge]
+    journal: Journal of Atmospheric and Oceanic Technology
+    year: 2009
+    volume: 26
+    pages: 1341--1353
+    url: https://doi.org/10.1175/2008JTECHA1205.1
