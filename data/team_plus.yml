@@ -9,16 +9,6 @@ members  :
     impactsid   : kirsten-mayer
     githubuname : kjmayer
 
-  - name        : Kyle Sha
-    designation : Scientist III (RAL)
-    ncaruname   : ksha
-    githubuname : yingkaisha
-
-  - name        : Dhamma Kimpara
-    designation : Scientist III (MMM)
-    ncaruname   : dkimpara
-    githubuname : dkimpara
-
   - name        : Da Fan
     designation : Post Doc - LEAP
     githubuname : dxf424
